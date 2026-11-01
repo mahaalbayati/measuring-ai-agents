@@ -121,12 +121,12 @@ The chapter's values were produced with Python 3.11.17, NumPy 2.4.6, pandas 2.3.
 
 If you use this package, please cite the chapter:
 
-> [Author names], "Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide," in *Advances in Artificial
-> Intelligence and Computer Science: Methods, Systems, and Applications*, O. Fındık and O. Menemencioğlu, Eds.
-> Karabük, Türkiye: Karabük University Press, 2026.
+> [Maha Ahmed Abdullah ALBAYATI, Hasan DEMİR], "Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide," in *Advances in Artificial
+> Intelligence and Computer Science: Methods, Systems, and Applications*
+> Karabük, Türkiye: Karabük University, 2026.
 
 and the SWE-bench benchmark (Jimenez et al., arXiv:2310.06770).
 
 ## Contact
 
-[Corresponding author name, e-mail]
+[mahaalbayati@karabuk.edu.tr]
