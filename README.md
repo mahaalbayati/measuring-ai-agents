@@ -1,4 +1,3 @@
-# measuring-ai-agents
 # Data and code for "Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide"
 
 This repository accompanies the book chapter *Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide*
@@ -122,12 +121,12 @@ The chapter's values were produced with Python 3.11.17, NumPy 2.4.6, pandas 2.3.
 
 If you use this package, please cite the chapter:
 
-> [Maha Ahmed Abdullah ALBAYATI, Hasan DEMİR], "Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide," in *Advances in Artificial
-> Intelligence and Computer Science: Methods, Systems, and Applications*.
-> Karabük, Türkiye: Karabük University, 2026.
+> [Author names], "Measuring AI Agents: Validity, Reliability, and What Leaderboards Hide," in *Advances in Artificial
+> Intelligence and Computer Science: Methods, Systems, and Applications*, O. Fındık and O. Menemencioğlu, Eds.
+> Karabük, Türkiye: Karabük University Press, 2026.
 
 and the SWE-bench benchmark (Jimenez et al., arXiv:2310.06770).
 
 ## Contact
 
-[mahaalbayati@karabuk.edu.tr]
+[Corresponding author name, e-mail]
